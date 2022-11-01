@@ -1,4 +1,12 @@
+"""
+- Fecha: 1 nov 2022
+- Autor: Brayan Stiven Castañeda
+- Tema: Cython
+- Tópico: Planetas - orbita gravitacional
+"""
+
 from math import sqrt
+
 class Planet(object):
     def __init__(self):
         #some initial position and velocity
@@ -37,6 +45,3 @@ def step_time(planet, time_span, n_steps):
     for j in range (n_steps):
         single_step(planet, dt)
 
-def main():
-    Planeta_ = Planet()
-    step_time(Planeta_, 5000,10000000)
