@@ -1,3 +1,17 @@
+<div> 
+<br>
+<i><b>Autor:</b></i> Brayan Stiven Castañeda Cruz
+<br>
+<i><b>Asignatura:</b></i> Programación Paralela y Distribuida
+<br>
+<i><b>Fecha: </b>01-11-2022
+<br>
+<b>Ciencias de la computación e inteligencia artificial</b></i>
+<br>
+</FONT>
+</div>
+
+
 # __Taller Cython Computacion Paralela__
 `En el presente laboratorio se encuentra depositado un ejemplo de programación con el lenguaje de programación Cython`
 
