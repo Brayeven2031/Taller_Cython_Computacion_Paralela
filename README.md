@@ -36,6 +36,9 @@ Los archivos encontrados dentro del repositorio son los siguientes:
 >### **Makefile**
 >Este programa automatiza el proceso de compilación y creación del recurso compartido del archivo `.pyx`
 
+>### **Taller Cython Computacion Paralela - Métricas de Rendimiento (Brayan Stiven Castañeda).ipynb**
+>En este Notebook se encontrará un análisis de los resultados obtenidos con la ejecución de los resultados, además se agregan conclusiones obtenidas mediante la elaboración ejecución y análisis del experimiento.
+
 ## __Ejecución__
 `Por favor tener en cuenta que el método de ejecución descrito a continuación, únicamente aplica para entornos linux`.
 1. Inicialmente descargue los cinco archivos y ubíquelos en su carpeta de preferencia. Todos los archivos deben estar en la misma carpeta.
